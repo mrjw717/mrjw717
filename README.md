@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://github.com/mrjw717"><img src="assets/myspace/github-profile-badge.svg" width="190" alt="Visit Joshua's GitHub profile"></a>
   <a href="https://kynexmedia.com"><img src="assets/myspace/kynex-media-badge.svg" width="210" alt="Kynex Media"></a>
-  <a href="#joshuas-top-projects"><img src="assets/myspace/projects-badge.svg?v=2" width="190" alt="View Joshua's top projects"></a>
+  <a href="#joshuas-top-projects"><img src="assets/myspace/projects-badge.svg?v=3" width="190" alt="View Joshua's top projects"></a>
 </p>
 
 <picture>
