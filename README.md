@@ -27,26 +27,35 @@
   <img src="assets/myspace/blurbs-light.svg" width="100%" alt="Joshua's Blurbs. About me, software and AI.">
 </picture>
 
-### Hey, I'm Joshua.
-
-Founder, software builder and product architect working in **AI-native engineering**.
-
-I'm building **Kynex Media** and **Shipwright Systems**, alongside developer tools **Code Graph** and **Vibe Speaker**.
-
-Self-taught. Building software since the late 1990s.
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Hey, I'm Joshua.</h3>
+      <p>Founder, software builder and product architect working in <strong>AI-native engineering</strong>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p>I'm building <strong>Kynex Media</strong> and <strong>Shipwright Systems</strong>, alongside developer tools <strong>Code Graph</strong> and <strong>Vibe Speaker</strong>.</p>
+      <p>Self-taught. Building software since the late 1990s.</p>
+      <picture>
+        <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/myspace/joshua-ascii-mobile-dark.svg">
+        <source media="(max-width: 600px)" srcset="assets/myspace/joshua-ascii-mobile-light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/joshua-ascii-desktop-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/myspace/joshua-ascii-desktop-light.svg">
+        <img src="assets/myspace/joshua-ascii-desktop-light.svg" width="100%" alt="ASCII art portrait of Joshua, 100 columns wide on desktop and 50 columns on mobile.">
+      </picture>
+    </td>
+  </tr>
+</table>
 <br clear="all">
 
 <details>
 <summary><b>View my profile card</b></summary>
 <br>
 
-<p align="center"><img src="assets/myspace/portrait.webp" alt="Joshua Williams, wearing a red cap and black hoodie" width="140"></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/profile-card-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/myspace/profile-card-light.svg">
-  <img src="assets/myspace/profile-card-light.svg" width="360" alt="Joshua Williams, @mrjw717. Founder / Developer. Software systems. Coding since the late 1990s. Self-taught. Status: building.">
+  <img src="assets/myspace/profile-card-light.svg" width="360" alt="Joshua Williams, @mrjw717. Founder / Developer. Portrait photo. Software systems. Coding since the late 1990s. Self-taught. Status: building.">
 </picture>
 
 </details>
