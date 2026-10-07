@@ -27,16 +27,15 @@
   <img src="assets/myspace/blurbs-light.svg" width="100%" alt="Joshua's Blurbs. About me, software and AI.">
 </picture>
 
-<table width="100%" style="table-layout: fixed; width: 100%;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Hey, I'm Joshua.</h3>
-      <p>Founder, software builder and product architect working in <strong>AI-native engineering</strong>.</p>
-      <p>I'm building <strong>Kynex Media</strong> and <strong>Shipwright Systems</strong>, alongside developer tools <strong>Code Graph</strong> and <strong>Vibe Speaker</strong>.</p>
-      <p>Self-taught. Building software since the late 1990s.</p>
-    </td>
-    <td width="50%" valign="top">
-      <pre style="max-width: 100%; overflow-x: auto; font-size: 6px; line-height: 6.545px;"><code>                                                                                                    
+<h3>Hey, I'm Joshua.</h3>
+
+Founder, software builder and product architect working in **AI-native engineering**.
+
+I'm building **Kynex Media** and **Shipwright Systems**, alongside developer tools **Code Graph** and **Vibe Speaker**.
+
+Self-taught. Building software since the late 1990s.
+
+<small><small><pre><code>                                                                                                    
  .:..:....              .....................................               . .-.                   
          .....:....    .. .....  ....... .  .   ..     ..   ..... ...      .   =     .      .       
   .::-:.::..             .....  .  ....  . .                    .          .   =                    
@@ -90,10 +89,7 @@
   ..  .. ..        .    ..... ..   ..    ...........  .  .. ...   ..  .   ..         .   .   ..  .  
  .  . .   . .     . .   .......    ..     . ...... .   .. .       ..  .   .     ..  .    . . ..  .  
  ..   ..  ...     ..   ....... ..  .:      ........  . . ..  .    ..   .   ...          .. . .      
-                                                                                                    </code></pre>
-    </td>
-  </tr>
-</table>
+                                                                                                    </code></pre></small></small>
 <br clear="all">
 
 <details>
