@@ -9,14 +9,9 @@
 </picture>
 
 <p align="center">
-  <img src="assets/myspace/online-now.svg" width="144" alt="Online now: a decorative old-web status badge">
-  <img src="assets/myspace/mood-building.svg" width="180" alt="Mood: building">
-</p>
-
-<p align="center">
-  <a href="https://github.com/mrjw717">GitHub</a> ·
-  <a href="https://kynexmedia.com">Kynex Media</a> ·
-  <a href="#joshuas-top-projects">View projects</a>
+  <a href="https://github.com/mrjw717"><img src="assets/myspace/github-profile-badge.svg" width="190" alt="Visit Joshua's GitHub profile"></a>
+  <a href="https://kynexmedia.com"><img src="assets/myspace/kynex-media-badge.svg" width="210" alt="Kynex Media"></a>
+  <a href="#joshuas-top-projects"><img src="assets/myspace/projects-badge.svg" width="190" alt="View Joshua's top projects"></a>
 </p>
 
 <picture>
