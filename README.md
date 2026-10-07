@@ -1,4 +1,4 @@
-<!-- Keep this README and assets/myspace together. See INSTALL.md for setup. -->
+<!-- Copy this README and the complete assets/myspace folder together. -->
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/myspace/header-dark-mobile.svg">
@@ -11,7 +11,6 @@
 <p align="center">
   <img src="assets/myspace/online-now.svg" width="144" alt="Online now: a decorative old-web status badge">
   <img src="assets/myspace/mood-building.svg" width="180" alt="Mood: building">
-  <img src="assets/myspace/linux-user.svg" width="144" alt="Linux user">
 </p>
 
 <p align="center">
@@ -36,7 +35,7 @@ Founder, software builder and product architect working in **AI-native engineeri
 
 I'm building **Kynex Media** and **Shipwright Systems**, alongside developer tools **Code Graph** and **Vibe Speaker**.
 
-**Self-taught. Linux user. Coding since the late 1990s.**
+Self-taught. Building software since the late 1990s.
 
 <br clear="all">
 
@@ -47,7 +46,7 @@ I'm building **Kynex Media** and **Shipwright Systems**, alongside developer too
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/profile-card-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/myspace/profile-card-light.svg">
-  <img src="assets/myspace/profile-card-light.svg" width="360" alt="Joshua Williams, @mrjw717. Founder / Developer. Linux. Coding since the late 1990s. Self-taught. Status: building.">
+  <img src="assets/myspace/profile-card-light.svg" width="360" alt="Joshua Williams, @mrjw717. Founder / Developer. Software systems. Coding since the late 1990s. Self-taught. Status: building.">
 </picture>
 
 </details>
@@ -69,10 +68,10 @@ I'm building **Kynex Media** and **Shipwright Systems**, alongside developer too
 </picture>
 
 <p align="center">
-  <a href="https://github.com/mrjw717/obsidian-code-graph"><img src="assets/myspace/project-codegraph.svg" width="300" alt="Code Graph: Developer Knowledge Graph. Open the repository."></a>
-  <a href="https://github.com/mrjw717/Vibe-Speaker"><img src="assets/myspace/project-vibespeaker.svg" width="300" alt="Vibe Speaker: Local Speech-to-Text. Open the repository."></a>
-  <a href="https://kynexmedia.com"><img src="assets/myspace/project-kynex.svg" width="300" alt="Kynex Media: AI-Native Software Studio. Visit the website."></a>
-  <a href="#shipwright-systems"><img src="assets/myspace/project-shipwright.svg" width="300" alt="Shipwright Systems: Vertical Software Infrastructure. Read below."></a>
+  <a href="https://github.com/mrjw717/obsidian-code-graph"><img src="assets/myspace/project-codegraph.svg" width="210" alt="Code Graph: Developer Knowledge Graph. Open the repository."></a>
+  <a href="https://github.com/mrjw717/Vibe-Speaker"><img src="assets/myspace/project-vibespeaker.svg" width="210" alt="Vibe Speaker: Local Speech-to-Text. Open the repository."></a>
+  <a href="https://kynexmedia.com"><img src="assets/myspace/project-kynex.svg" width="210" alt="Kynex Media: AI-Native Software Studio. Visit the website."></a>
+  <a href="#shipwright-systems"><img src="assets/myspace/project-shipwright.svg" width="210" alt="Shipwright Systems: Vertical Software Infrastructure. Read below."></a>
 </p>
 
 - **[Code Graph](https://github.com/mrjw717/obsidian-code-graph)** · Developer knowledge graph. Explore code relationships alongside your Obsidian notes.
@@ -99,6 +98,13 @@ I'm building **Kynex Media** and **Shipwright Systems**, alongside developer too
   <a href="https://kynexmedia.com">Kynex Media</a><br>
   <a href="#shipwright-systems">Shipwright Systems</a> ·
   <a href="#joshuas-top-projects">View projects</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mrjw717"><img src="assets/myspace/dock-github.svg" width="64" alt="Quick launch: GitHub profile"></a>
+  <a href="https://github.com/mrjw717/obsidian-code-graph"><img src="assets/myspace/dock-codegraph.svg" width="64" alt="Quick launch: Code Graph repository"></a>
+  <a href="https://github.com/mrjw717/Vibe-Speaker"><img src="assets/myspace/dock-vibespeaker.svg" width="64" alt="Quick launch: Vibe Speaker repository"></a>
+  <a href="https://kynexmedia.com"><img src="assets/myspace/dock-kynex.svg" width="64" alt="Quick launch: Kynex Media"></a>
 </p>
 
 <picture>
