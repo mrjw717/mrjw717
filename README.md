@@ -27,82 +27,25 @@
   <img src="assets/myspace/blurbs-light.svg" width="100%" alt="Joshua's Blurbs. About me, software and AI.">
 </picture>
 
-<h3>Hey, I'm Joshua.</h3>
+<table>
+  <tr>
+    <td width="38%" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/profile-card-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/myspace/profile-card-light.svg">
+        <img src="assets/myspace/profile-card-light.svg" width="100%" alt="Joshua Williams, @mrjw717. Founder / Developer. Portrait photo. Software systems. Coding since the late 1990s. Self-taught. Status: building.">
+      </picture>
+    </td>
+    <td width="62%" valign="middle">
+      <h3>Hey, I'm Joshua.</h3>
+      <p>Founder, software builder and product architect working in <strong>AI-native engineering</strong>.</p>
+      <p>I'm building <strong>Kynex Media</strong> and <strong>Shipwright Systems</strong>, alongside developer tools <strong>Code Graph</strong> and <strong>Vibe Speaker</strong>.</p>
+      <p>Self-taught. Building software since the late 1990s.</p>
+    </td>
+  </tr>
+</table>
 
-Founder, software builder and product architect working in **AI-native engineering**.
 
-I'm building **Kynex Media** and **Shipwright Systems**, alongside developer tools **Code Graph** and **Vibe Speaker**.
-
-Self-taught. Building software since the late 1990s.
-
-<small><small><pre><code>                                                                                                    
- .:..:....              .....................................               . .-.                   
-         .....:....    .. .....  ....... .  .   ..     ..   ..... ...      .   =     .      .       
-  .::-:.::..             .....  .  ....  . .                    .          .   =                    
-           ...:---..:..         ..... .       -++=-:::::-=      .. .....  ..   =.               .   
-     . .::.          ..::--:.::.  .      *+=--.    ... ....:--                 =.                   
-  . .:..    .......            ...   :#+-:  .  ...............:-=   . .     .  =.            ...... 
-  .  ....             .........    =+-    . ...      .       ....-=        ..  =.   ............    
-        ...:..:::::.............  +.: .....   ..+*+=-===++*+:.  . .:-    .  .  =: .....             
- ...:--:..          ..........   =.-.     .-*=.              :+*:.. ::     ..  =:                   
-        .         ............  *+.     -*:               .      +=...  .  .   =:  .                
-    :-: ....          .... ..  -+     #=             .        .    ==.- .. .   =:      .-------     
-  .        ..:.:-::.... ....   +-   #-      ...   ..........         =-   ...  =:    .==--------:   
-  .     ...           ......  +* .++     .......::..:::.. ......  ..  -:    .  =:   :=.        :-:  
- .. :-:... .               .  # -%      .....::::::::.::........    .  -:      =:  .--.        :::  
-           ..:::-----:::...   #@+     .:..::...:::::-:::::.             =  .   =:  :::     .   :::  
-  .   ...                ...  #    -...:::------------------::..        :.     =:  :-:         :-:  
- .. ..:...... ............   .. -=%%*+- .=*++++++===----=-=====-----  :.    .  =:  .-::..   .::--   
- .. ... . ...      ....... @@+#@:.***++:-  ..::-==========++++++=-:=: .     .  =:   :: :.   ----    
-  .     ..  ......  .....  +:-.: =#+===+**++-:-:=----:-==:.    .:::= =:     .  =:    .--:   --.     
- .. .:..::..:.. . .        .-+-+-#+:..    ..    .::-:---:--=+**+--:- -:        -:                   
-  .            ..::::::::.  @: =**=:::-+--  .- : .====         :-::- *      .  -:   .           .   
- .. :-----:.::.             %:.**+-=====-==+-  :-==-=-.=.=   :   .-++  . .  .  -: .                 
- .. ..          ........... =+=*+======-=-=====+++=---:=-=+*===-=-=*   ...  .  -:          ...::    
-  .                    ....  *.+==-==------===++=+=-----====---=--=#  . . . .. -:       ...   -. :. 
-    ....: .:-::--::........  @+*=--=--=======-.-=+=---:.===----====*  . ..  .. ::----------:        
- ..  .:.:::. .        .....  @-%+-:==---==--::%%#%++***-======-=---+ .. .   .......         .       
-                      .....    %+=:=-----=::=-    :...  :=-===----:- .  .    .           ..    .    
- .. ::..--::.::::::....    ..: @*=:=--=--.-===+**:.  . :------=:-:*     .  . ..         .:::  .. .. 
- ..                     :==:    @=--=-:-:*=--::::-::...----:-:::==  :::.   ....      .     ....     
-  .    . ::::::: .   .=.        @*++---::  :=+**##=*#++::.-:---.--      .:    .    ..........       
- .. .:.:.        .  +            *=-=+==-=+=-:.        .:.---:::=         .-. .              .::.   
-  . .. .:........  +:       ==-. %=.:::-:-+-=:-+=:==**=-- .-==-+            :.   ...        .:-..   
-  . ... ..... ..  *..     .=:    *#:-:--:::-=.         =-::----   ::        ...    .         .-.    
- ..          ... ==..-   .:: .   =#=: =++=--:=+++=-::-: -===: .    ...     .. : .....        :=:.   
-  .  .........   *:  .-      ..  .*==: .-+-++:==-==+====+=-. =:    ...    ... :        ...          
-  . .           -+:.   ::   .... :+===-: -+++-+-::-:-=+-.  .-+    . ..   ...  .-        ..          
-  . :-:.::::..-+=. .... .-   ..   ++----.    . .  -:-:.   ---+     ..   ..     :-=.     ..          
- .:....     .*==-.  .     .:   .   =+=---:.            .:-----   ..   ...   ..   .:     .           
-            =. . :.   .......:.    .-=====-=:::.:::::---:::--:  ..   ....  .  ...  .-.              
-       +*+==-    ..... .....  ..:.  :---=-----::-:-:.:-:----:.  .  ... .     ..   ..: ..:::-        
-  :===..    .--      .....  ..   ..  --::-------::::::::--:::.   ....    ....       ....:....==-.   
- -=+==:::      .        ......         ==::----::-:::--::--=   ... .  ..           . ..    .   ..:. 
-      .:-: ....        .    ..... :  :   =+++=---:::-=+#**.  .. :  . .               .       .... . 
-     .   .-:...        ..      ..  :.  .    :#%%#%%%%#:    ...    .       .       .... .    .. ..   
- .:.   .     .  .    .  ..         ..  ....             ...   .   .       .           ..    .  .  . 
-  ...   . .           . ....    .  ..      .....    ..::          .    ....         ..         .  . 
-   ..   ..  .    ...    ....   .   ..  .        ..  .            ..    ...          . ..       . .. 
-    ..  ..   .   . .    .....    ....   ............. .     .. .  .      ..       ..  .      ..  .  
- ..  ..  ....   .    .. .....      ..  .           .    .         .   . . .      .   ..   ... .     
- ..  ..  ..   . . ..  . ..... .    ..  .............              ..  . .          . .   ..   .     
-  ..  .. ..        .    ..... ..   ..    ...........  .  .. ...   ..  .   ..         .   .   ..  .  
- .  . .   . .     . .   .......    ..     . ...... .   .. .       ..  .   .     ..  .    . . ..  .  
- ..   ..  ...     ..   ....... ..  .:      ........  . . ..  .    ..   .   ...          .. . .      
-                                                                                                    </code></pre></small></small>
-<br clear="all">
-
-<details>
-<summary><b>View my profile card</b></summary>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/profile-card-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/myspace/profile-card-light.svg">
-  <img src="assets/myspace/profile-card-light.svg" width="360" alt="Joshua Williams, @mrjw717. Founder / Developer. Portrait photo. Software systems. Coding since the late 1990s. Self-taught. Status: building.">
-</picture>
-
-</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/divider-pixels-dark.svg">
