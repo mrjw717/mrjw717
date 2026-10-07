@@ -27,8 +27,6 @@
   <img src="assets/myspace/blurbs-light.svg" width="100%" alt="Joshua's Blurbs. About me, software and AI.">
 </picture>
 
-<img src="assets/myspace/portrait.webp" alt="Joshua Williams, wearing a red cap and black hoodie" align="right" width="140">
-
 ### Hey, I'm Joshua.
 
 Founder, software builder and product architect working in **AI-native engineering**.
@@ -42,6 +40,8 @@ Self-taught. Building software since the late 1990s.
 <details>
 <summary><b>View my profile card</b></summary>
 <br>
+
+<p align="center"><img src="assets/myspace/portrait.webp" alt="Joshua Williams, wearing a red cap and black hoodie" width="140"></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/profile-card-dark.svg">
@@ -85,13 +85,60 @@ Self-taught. Building software since the late 1990s.
   <img src="assets/myspace/divider-pixels-light.svg" width="100%" alt="">
 </picture>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/contact-box-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/myspace/contact-box-light.svg">
-  <img src="assets/myspace/contact-box-light.svg" width="420" alt="Contacting Joshua. GitHub, Kynex Media, Shipwright Systems, Follow / Connect, View Projects. Use the text links below.">
-</picture>
-</p>
+<table align="center" cellpadding="0" cellspacing="0" border="0">
+  <tr><td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/contact-dark-slice-1.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/myspace/contact-light-slice-1.svg">
+        <img src="assets/myspace/contact-light-slice-1.svg" width="420" alt="Contacting Joshua">
+      </picture>
+  </td></tr>
+  <tr><td>
+    <a href="https://github.com/mrjw717">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/contact-dark-slice-2.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/myspace/contact-light-slice-2.svg">
+        <img src="assets/myspace/contact-light-slice-2.svg" width="420" alt="GitHub">
+      </picture>
+    </a>
+  </td></tr>
+  <tr><td>
+    <a href="https://kynexmedia.com">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/contact-dark-slice-3.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/myspace/contact-light-slice-3.svg">
+        <img src="assets/myspace/contact-light-slice-3.svg" width="420" alt="Kynex Media">
+      </picture>
+    </a>
+  </td></tr>
+  <tr><td>
+    <a href="#shipwright-systems">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/contact-dark-slice-4.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/myspace/contact-light-slice-4.svg">
+        <img src="assets/myspace/contact-light-slice-4.svg" width="420" alt="Shipwright Systems">
+      </picture>
+    </a>
+  </td></tr>
+  <tr><td>
+    <a href="https://github.com/mrjw717">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/contact-dark-slice-5.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/myspace/contact-light-slice-5.svg">
+        <img src="assets/myspace/contact-light-slice-5.svg" width="420" alt="Follow / Connect">
+      </picture>
+    </a>
+  </td></tr>
+  <tr><td>
+    <a href="#joshuas-top-projects">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/myspace/contact-dark-slice-6.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/myspace/contact-light-slice-6.svg">
+        <img src="assets/myspace/contact-light-slice-6.svg" width="420" alt="View Projects">
+      </picture>
+    </a>
+  </td></tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/mrjw717">Follow / connect on GitHub</a> ·
